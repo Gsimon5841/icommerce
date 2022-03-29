@@ -1,0 +1,6 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS icommerce_db;
+
+-- CREATE DATABASE
+CREATE DATABASE icommerce_db;
+
